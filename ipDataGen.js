@@ -24,7 +24,7 @@ function combine(){
 function get_country(){
     let country = {[UNKONWN]:0};
     const files = fs.readdirSync(file_dir);
-    files.forEach((v,index)=>country[v.slice(0,2)]=index);
+    files.forEach((v,index)=>country[v.slice(0,2)]=index+1);
     return country;
 }
 
