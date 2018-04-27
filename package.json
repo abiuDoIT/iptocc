@@ -1,0 +1,26 @@
+{
+  "name": "iptocc",
+  "version": "1.0.0",
+  "description": "look up country code from ip (ipv4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/abiuDoIT/iptocc.git"
+  },
+  "keywords": [
+    "ip2cc",
+    "ip",
+    "country",
+    "code",
+    "ip2location"
+  ],
+  "author": "abiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abiuDoIT/iptocc/issues"
+  },
+  "homepage": "https://github.com/abiuDoIT/iptocc#readme"
+}
