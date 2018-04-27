@@ -1,6 +1,6 @@
 {
   "name": "iptocc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "look up country code from ip (ipv4)",
   "main": "index.js",
   "scripts": {

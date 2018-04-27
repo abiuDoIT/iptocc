@@ -1,8 +1,8 @@
-##Usage
+## Usage
 1. the data is from ip2location free database.
 2. it only supports country code info
 
-##how to use
+## how to use
 ```
 npm install ip2cc
 ```
@@ -12,7 +12,7 @@ const countryCode = iptocc('164.52.12.83');
 console.log(countryCode);//HK
 ```
 
-##how about efficiency
+## how about efficiency
 ```
 node index.test.js
 ```
